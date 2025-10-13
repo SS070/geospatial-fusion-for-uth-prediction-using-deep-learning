@@ -1,4 +1,4 @@
-# Upper Tropospheric Humidity Prediction using UNet++ VAE
+# Upper Tropospheric Humidity Prediction using Depp-learning architectures
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9+-green.svg)](https://www.python.org/)
